@@ -1,5 +1,5 @@
 # Recipe Finder
-- A simple recipe finder application that allows users to search and explore different meals with ease.
+ A simple recipe finder application that allows users to search and explore different meals with ease.
 - ## Features
 - Search for recipes
 - View meal details and ingredients
